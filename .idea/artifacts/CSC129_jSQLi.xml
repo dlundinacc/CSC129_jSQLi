@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CSC129_jSQLi">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSC129_jSQLi</output-path>
+    <root id="archive" name="CSC129_jSQLi.war">
+      <element id="artifact" artifact-name="CSC129_jSQLi:war exploded" />
+    </root>
+  </artifact>
+</component>
